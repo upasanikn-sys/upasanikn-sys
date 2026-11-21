@@ -1,40 +1,67 @@
-# Hi, I'm Keyur 👋
+# Keyur Upasani
 
-**Product engineer from Pune, India 🇮🇳** — I design and ship end-to-end products solo, from the data model to the pixels, with a bias for actually shipping. Right now I'm building at the intersection of **wellness** and **fintech**.
+**Product builder · Founder mindset · Business strategy × AI × engineering**
 
----
+*I turn complex problems into simple, useful software — from the first idea to a real product.*
 
-### 🚀 What I'm building
-
-#### 🌿 [Movana Wellness](https://movanawellness.com)
-A physiotherapist-designed desk-wellness platform — short, structured movement routines and day-by-day programs for people who work at a desk, delivered as a fast, installable PWA with a genuinely useful free tier.
-
-`Next.js 15` &nbsp;·&nbsp; `React 19` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Razorpay` &nbsp;·&nbsp; `Vercel` &nbsp;·&nbsp; `Tailwind CSS`
-
-#### 📈 Vestora — *Build Wealth. With Clarity.*
-A personal AI "Financial OS": unified portfolio tracking, plain-English health-checks for your investments, and adaptive allocation — powered by one engine kept in parity across web, desktop, and a native mobile app.
-
-`Python` &nbsp;·&nbsp; `Flutter` &nbsp;·&nbsp; `Dart` &nbsp;·&nbsp; `PostgreSQL`
+📍 Pune, India &nbsp;·&nbsp; 🌍 Building for a global audience &nbsp;·&nbsp; [Explore my live work](https://movanawellness.com)
 
 ---
 
-### 🛠️ Tech I reach for
+## A little about me
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+I'm a product builder with **7+ years of experience in business analysis and agile delivery**, bringing together product strategy, user experience, technical execution, and commercial thinking.
+
+My approach is straightforward: understand the problem deeply, design for the person using the product, build carefully, and validate whether it creates real value.
+
+I work across the full product lifecycle and use AI-assisted development to move faster—without treating generated code or an impressive demo as proof of quality.
+
+**What matters to me:** thoughtful design · reliable execution · responsible AI · privacy · sustainable unit economics · products people actually want to use.
+
+## What I've built and what I'm building
+
+### [Movana Wellness](https://movanawellness.com) — Live
+
+**Better movement habits for people who spend their day at a desk.**
+
+A physiotherapist-designed wellness platform offering accessible routines, structured programs, and tools for everyday desk wellness.
+
+**[Visit the live product](https://movanawellness.com)**
+
+### Pocket — In development
+
+**Personal finance, designed for clarity.**
+
+An evolving personal-finance platform focused on helping people understand and manage their money with less complexity. Source code and development milestones remain private until they're ready to share.
+
+> More products are in development. I prefer sharing verified launches, useful demos, and what I've learned over announcing unfinished ideas.
+
+## How I approach product building
+
+| Discover | Design | Build | Validate |
+| :--- | :--- | :--- | :--- |
+| Understand real users, needs, and constraints | Create clear journeys and focused experiences | Connect product decisions with architecture and delivery | Test quality, usability, operating cost, and actual value |
+
+**Product & delivery:** discovery, business analysis, requirements, prioritization, roadmaps, Scrum, stakeholder alignment.
+
+**Tools & technical ecosystem:** TypeScript, React, Next.js, Python, Flutter, PostgreSQL, Supabase, APIs, deployment workflows, AI-assisted coding.
+
+**Background:** Senior Business Analyst / Scrum Master · CBAP · CSM.
+
+## The principles behind my work
+
+- **Useful beats complicated.** Every feature should justify its existence.
+- **Design and engineering are one conversation.** A seamless interface means little if the underlying system fails.
+- **The economics matter.** Speed, reliability, operating costs, and scalability shape the product from day one.
+- **Ship, learn, improve.** Release quality work, listen carefully, and keep iterating.
+- **Be clear about what's real.** Live products are labeled live; work in progress stays work in progress.
+
+## Follow the work
+
+- 🌿 **[Movana Wellness](https://movanawellness.com)** — live product
+- 💼 **[Peerlist](https://peerlist.io/upasanikn)** — professional profile
+- 🧑‍💻 **[GitHub](https://github.com/upasanikn-sys)** — public updates and selected technical work
 
 ---
 
-### 🤝 Connect
-
-- 🌐 &nbsp;**[movanawellness.com](https://movanawellness.com)**
-- 🧑‍💻 &nbsp;**[Peerlist →](https://peerlist.io/upasanikn)**
-
-<sub>Always tinkering with something new. 🌱</sub>
+*Build with purpose. Make the complex feel simple. Earn trust through execution.*
