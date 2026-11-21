@@ -10,7 +10,7 @@
 
 ## A little about me
 
-I'm a product builder with **7+ years of experience in business analysis and agile delivery**, bringing together product strategy, user experience, technical execution, and commercial thinking.
+I'm a product builder with **9 years of experience in business analysis and agile delivery**, bringing together product strategy, user experience, technical execution, and commercial thinking.
 
 My approach is straightforward: understand the problem deeply, design for the person using the product, build carefully, and validate whether it creates real value.
 
