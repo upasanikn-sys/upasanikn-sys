@@ -1,51 +1,67 @@
 # Keyur Upasani
 
-### Founder-minded product builder · Business analysis × software × AI
+**Product builder · Founder mindset · Business strategy × AI × engineering**
 
-I build digital products from the first problem statement through product strategy, UX, engineering, and launch.
+*I turn complex problems into simple, useful software — from the first idea to a real product.*
 
-My background is in **business analysis and agile delivery (7+ years)**. Today, I bring that systems-thinking foundation to building software: understanding what people need, defining what matters, and turning complex ideas into usable products.
-
-Based in Pune, India · Building for people everywhere.
+📍 Pune, India &nbsp;·&nbsp; 🌍 Building for a global audience &nbsp;·&nbsp; [Explore my live work](https://movanawellness.com)
 
 ---
 
-### What guides my work
+## A little about me
 
-- **Start with a real problem.** A product should earn its place in someone's life.
-- **Think in systems.** Experience, architecture, reliability, and business economics belong in the same conversation.
-- **Ship thoughtfully.** Design for clarity, test important workflows, and improve through feedback.
-- **Use AI with intention.** AI-assisted development can accelerate execution; product judgment, validation, and accountability still matter.
-- **Build to last.** Sustainable costs, privacy, and maintainability are product features.
+I'm a product builder with **7+ years of experience in business analysis and agile delivery**, bringing together product strategy, user experience, technical execution, and commercial thinking.
 
-### Selected work
+My approach is straightforward: understand the problem deeply, design for the person using the product, build carefully, and validate whether it creates real value.
 
-**[Movana Wellness](https://movanawellness.com)** · Live product
+I work across the full product lifecycle and use AI-assisted development to move faster—without treating generated code or an impressive demo as proof of quality.
 
-A physiotherapist-designed desk wellness platform with guided movement routines, structured programs, and tools for better everyday habits. Built as a web app with an installable experience.
+**What matters to me:** thoughtful design · reliable execution · responsible AI · privacy · sustainable unit economics · products people actually want to use.
 
-**Pocket** · In development
+## What I've built and what I'm building
 
-A personal finance platform focused on making financial information easier to understand and manage. Development is private; public updates will follow when ready.
+### [Movana Wellness](https://movanawellness.com) — Live
 
-> I keep most product source code private while developing and validating it. As projects launch, I'll share public demos, documentation, and selected technical insights here.
+**Better movement habits for people who spend their day at a desk.**
 
-### How I build
+A physiotherapist-designed wellness platform offering accessible routines, structured programs, and tools for everyday desk wellness.
 
-**Product:** discovery · requirements · roadmap design · user journeys · prioritization · delivery
+**[Visit the live product](https://movanawellness.com)**
 
-**Engineering ecosystem:** TypeScript · React / Next.js · Python · Flutter · PostgreSQL · Supabase · APIs · cloud deployment
+### Pocket — In development
 
-**Working style:** end-to-end ownership · AI-assisted workflows · iterative testing · cost-conscious architecture
+**Personal finance, designed for clarity.**
 
-### Beyond the code
+An evolving personal-finance platform focused on helping people understand and manage their money with less complexity. Source code and development milestones remain private until they're ready to share.
 
-I'm interested in the intersection of **AI, productivity, wellness, financial technology, and creative tools**—particularly software that reduces complexity for the people using it.
+> More products are in development. I prefer sharing verified launches, useful demos, and what I've learned over announcing unfinished ideas.
 
-This profile is a living record of what I choose to make public as I build, validate, and launch new products.
+## How I approach product building
+
+| Discover | Design | Build | Validate |
+| :--- | :--- | :--- | :--- |
+| Understand real users, needs, and constraints | Create clear journeys and focused experiences | Connect product decisions with architecture and delivery | Test quality, usability, operating cost, and actual value |
+
+**Product & delivery:** discovery, business analysis, requirements, prioritization, roadmaps, Scrum, stakeholder alignment.
+
+**Tools & technical ecosystem:** TypeScript, React, Next.js, Python, Flutter, PostgreSQL, Supabase, APIs, deployment workflows, AI-assisted coding.
+
+**Background:** Senior Business Analyst / Scrum Master · CBAP · CSM.
+
+## The principles behind my work
+
+- **Useful beats complicated.** Every feature should justify its existence.
+- **Design and engineering are one conversation.** A seamless interface means little if the underlying system fails.
+- **The economics matter.** Speed, reliability, operating costs, and scalability shape the product from day one.
+- **Ship, learn, improve.** Release quality work, listen carefully, and keep iterating.
+- **Be clear about what's real.** Live products are labeled live; work in progress stays work in progress.
+
+## Follow the work
+
+- 🌿 **[Movana Wellness](https://movanawellness.com)** — live product
+- 💼 **[Peerlist](https://peerlist.io/upasanikn)** — professional profile
+- 🧑‍💻 **[GitHub](https://github.com/upasanikn-sys)** — public updates and selected technical work
 
 ---
 
-**Explore:** [Movana Wellness](https://movanawellness.com) · [Peerlist](https://peerlist.io/upasanikn)
-
-*Make useful things. Make them work well. Keep improving.*
+*Build with purpose. Make the complex feel simple. Earn trust through execution.*
